@@ -19,7 +19,7 @@
 ![lina_profile](https://user-images.githubusercontent.com/76991612/190839285-d2ff0b7c-3ce5-4207-99d0-7837f055819a.jpg)
 
 ## Developers:
- - Ruslan Bashinsky
- - Vladimir Vinogradov
- - Egor Kazachko
- - Stanislav Eroshenko
+ - Ruslan Bashinsky | Code | https://vk.com/oidaho
+ - Vladimir Vinogradov | Testing | https://vk.com/top_ruster
+ - Egor Kazachko | Documentation | https://vk.com/id199054929
+ - Stanislav Eroshenko | Technical solutions | https://vk.com/id360175838
