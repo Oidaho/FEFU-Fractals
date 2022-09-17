@@ -2,15 +2,15 @@
 
 ## A program for visualizing fractals, created as part of the FEFU summer practice.
 
- The program in this repository is attached without a virtual environment.
- The following libraries were used:
-  pygame
-  turtle
-  random
-  time
-  pillow
+## The program in this repository is attached without a virtual environment.
+## The following libraries were used:
+  - pygame
+  - turtle
+  - random
+  - time
+  - pillow
 
-## Controls
+## Controls:
  - Dragon line: N/A
  - Mandelbrot: NUM_1 or NUM_2 - switch gradient
  - Julia:  NUM_1 or NUM_2 - switch gradient | Arrow_Right or Arrow_Left - switch constant
